@@ -1,0 +1,25 @@
+{
+  "name": "as3445.github.io",
+  "version": "1.0.0",
+  "description": "Resume",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as3445/as3445.github.io.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Ankur Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/as3445/as3445.github.io/issues"
+  },
+  "homepage": "https://as3445.github.io",
+  "dependencies": {
+    "resume-cli": "^0.4.13"
+  }
+}
