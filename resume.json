@@ -157,7 +157,8 @@
             "name": "Programming",
             "keywords": [
                 "Machine Learning",
-                "AI"
+                "AI",
+                "Web Technologies"
             ]
         },
         {
@@ -167,6 +168,14 @@
                 "Parkour",
                 "Rock Climbing",
                 "Bicycling"
+            ]
+        },
+        {
+            "name": "Video Games",
+            "keywords": [
+                "Indie Games",
+                "Rocket League",
+                "Legend of Zelda"
             ]
         }
     ],
