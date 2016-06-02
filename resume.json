@@ -6,7 +6,7 @@
         "email": "saxenaankur001@gmail.com",
         "phone": "(267) 324-8432",
         "website": "https://as3445.github.io",
-        "summary": "Diverse range of experience in software design and engineering, front end development, server administration, and consulting within a startup environment.",
+        "summary": "Diverse range of experience in software design and engineering, front end development, server administration, and consulting within a startup environment",
         "location": {
             "address": "",
             "postalCode": "",
@@ -39,12 +39,12 @@
             "website": "https://lacoda.com",
             "startDate": "2015-07-01",
             "endDate": "2016-07-01",
-            "summary": "Loan Servicing Web Platform",
+            "summary": "Flexible web-based tool for loan management",
             "highlights": [
-                "Double Entry Book Keeping Engine",
+                "Double-entry book keeping engine",
                 "Third Party Integrations: Pactsafe, Dwolla, Google Analytics, Mandrill",
-                "Business logic to accomidate online transactions",
-                "Match making service for borrowers and lenders",
+                "Business logic to accomodate online transactions",
+                "Matchmaking service for borrowers and lenders",
                 "Lacoda Stack: Flask, Postgres, Backbone",
                 "Deal City Stack: Pyramid, Postgres, Angular"
             ]
@@ -55,13 +55,13 @@
             "website": "https://americancertified.com",
             "startDate": "2013-09-01",
             "endDate": "2015-07-01",
-            "summary": "Promote Conscious Consumerism by advocating for American Manufactured Goods",
+            "summary": "Promote conscious consumerism by advocating for American manufactured goods",
             "highlights": [
-                "E-commerce website using various frameworks from its inception in 2013 to 2015.",
-                "Database Architecture: Designed MySQL schema to support over three million products, with real time natural languages search capabilities using sphinx.",
-                "Data Collection: Automatically collect data from amazon.com. Products from 30,000 category nodes using 5 search terms in one week totalling in millions of data points.",
-                "Advised CEO in making business and technology related decisions.",
-                "Mentored and trained new employees and interns."
+                "E-commerce website using various frameworks from its inception in 2013 to 2015",
+                "Database Architecture: Designed MySQL schema to support over three million products, with real time natural languages search capabilities using sphinx",
+                "Data Collection: Automatically collect data from amazon.com. Products from 30,000 category nodes using 5 search terms in one week totalling in millions of data points",
+                "Advised CEO in making business and technology related decisions",
+                "Mentored and trained new employees and interns"
             ]
         },
         {
@@ -70,17 +70,37 @@
             "website": "http://openhtml.org/",
             "startDate": "2012-09-01",
             "endDate": "2013-09-01",
-            "summary": "A collaborative research project aimed at designing better tools and practices for learning web development.",
+            "summary": "A collaborative research project aimed at designing better tools and practices for learning web development",
             "highlights": [
-                "Experimental web editor for novice programmers for research.",
-                "Data collection infrastructure and “real time data replay” feature to facilitate analysis of user activity.",
-                "Literature reviews, user observations, data analysis, and research papers / posters."
+                "Experimental web editor for novice programmers for research",
+                "Data collection infrastructure and “real time data replay” feature to facilitate analysis of user activity",
+                "Literature reviews, user observations, data analysis, and research papers / posters"
             ]
         }
     ],
     "volunteer": [],
     "education": [],
-    "awards": [],
+    "awards": [
+        {
+            "title": "Mail Coach",
+            "date": "2015-05-06",
+            "awarder": "Tech Crunch",
+            "summary": "Intelligent feedback on emails using AI and personality analysis"
+        },
+        {
+            "title": "Let's Go!",
+            "date": "2015-04-25",
+            "awarder": "WTH@Kayak",
+            "summary": "Travel dating app that connects spontaneous adventurers"
+        },
+        {
+            "title": "Ether Health",
+            "date": "2015-04-17",
+            "awarder": "Startup Weekend",
+            "summary": " Informal Consulting similar to Stack Overflow for doctors"
+
+        }
+    ],
     "publications": [
         {
             "name": "openHTML: Designing a transitional web editor for novices",
@@ -141,7 +161,7 @@
     "languages": [
         {
             "language": "English",
-            "fluency": "Fluent"
+            "fluency": "Native Speaker"
         },
         {
             "language": "Hindi",
