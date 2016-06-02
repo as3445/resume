@@ -14,7 +14,23 @@
             "countryCode": "",
             "region": "PA"
         },
-        "profiles": []
+        "profiles": [
+            {
+                "network": "github",
+                "username": "AS3445",
+                "url": "https://github.com/as3445"
+            },
+            {
+                "network": "linkedin",
+                "username": "ASTP001",
+                "url": "https://www.linkedin.com/in/atsp001"
+            },
+            {
+                "network": "twitter",
+                "username": "@ASTP001",
+                "url": "https://twitter.com/ASTP001"
+            }
+        ]
     },
     "work": [
         {
