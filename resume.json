@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Ankur Saxena",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "saxenaankur001@gmail.com",
+    "phone": "(267) 324-8432",
+    "website": "as3445.github.io",
+    "summary": "Diverse range of experience in software design and engineering, front end development, server administration, and consulting within a startup environment.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Philadelphia",
+      "countryCode": "",
+      "region": "PA"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Lacoda",
+      "position": "Software Engineer",
+      "website": "https://lacoda.com",
+      "startDate": "2015-07-01",
+      "endDate": "2016-07-01",
+      "summary": "Loan Servicing Web Platform",
+      "highlights": [
+        "Double Entry Book Keeping Engine",
+        "Third Party Integrations: Pactsafe, Dwolla, Google Analytics, Mandrill",
+        "Business logic to accomidate online transactions",
+        "Lacoda Stack: Flask, Postgres, Backbone",
+        "Deal City Stack: Pyramid, Postgres, Angular"
+      ]
+    },
+    {
+      "company": "American Certified",
+      "position": "Lead Software Engineer",
+      "website": "https://americancertified.com",
+      "startDate": "2013-09-01",
+      "endDate": "2015-07-01",
+      "summary": "",
+      "highlights": [
+        "Front-end Web Design: Developed start-up ecommerce website using various frameworks from its inception in 2013 to present.",
+        "Database Architecture: Designed MySQL schema based on business and technical requirements. Contains over three million products, with real time natural languages search capabilities.",
+        "Data Collection: Developed a tool to automatically collect data from amazon.com for the business. Was able to collect all products from 30,000 category nodes using 5 search terms in one week.",
+        "Advised CEO in making business and technology related decisions.",
+        "Mentored and trained new employees and interns."
+      ]
+  },
+  {
+    "company": "Drexel University",
+    "position": "Research Assistant",
+    "website": "http://openhtml.org/",
+    "startDate": "2012-09-01",
+    "endDate": "2013-09-01",
+    "summary": "",
+    "highlights": [
+      "Implemented an experimental web editor for novice programmers for research.",
+      "Developed a data collection infrastructure and “real time data replay” to facilitate analysis of user activity.",
+      "Conducted literature reviews, observed users, analyzed research data, and collaborated on research paper and posters for publication."
+    ]
+  }
+],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [
+    {
+      "name": "openHTML: Designing a transitional web editor for novices",
+      "publisher": "CHI '13 Extended Abstracts on Human Factors in Computing Systems",
+      "releaseDate": "2013-04-01",
+      "website": "https://www.researchgate.net/publication/262361810_openHTML_Designing_a_transitional_web_editor_for_novices",
+      "summary": "We describe the initial design rationale and early findings from studies of a web editor for beginners called openHTML. We explain our strategy of transitional design that views web editors as a part of a complex socio-technical system that spans multiple tools, practices, and actors. Our goal is to create a toolkit that can engage beginners in meaningful activities now and prepare them for more sophisticated activities in the future."
+    },
+    {
+      "name": "Towards a taxonomy of errors in HTML and CSS",
+      "publisher": "ICER '13 Proceedings of the ninth annual international ACM conference on International computing education research",
+      "releaseDate": "2013-08-01",
+      "website": "https://www.researchgate.net/publication/262236925_Towards_a_taxonomy_of_errors_in_HTML_and_CSS",
+      "summary": "As part of a larger research agenda to explore web development as a context for learning computational literacy skills, we investigate errors people make while writing code in HTML and CSS. We report on a lab-based study in which 20 participants were video recorded as they completed coding tasks. We have applied the skills-rules-knowledge framework to segment this data by the cognitive causes of errors they made, and present a taxonomy of these errors. Our findings demonstrate how the skills-rules-framework can be used to analyze coding errors, provide insight about the origins of these errors, and suggest ways that the design of web development tools can be improved to support learning and practice with HTML and CSS."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-end",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Foundation",
+        "Javascript",
+        "Angular",
+        "Backbone",
+        "JQuery"
+      ]
+    },
+    {
+      "name": "Back-end",
+      "level": "",
+      "keywords": [
+        "PHP",
+        "CodeIgniter",
+        "Magento",
+        "Python",
+        "Flask",
+        "Node.js",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Extras",
+      "level": "",
+      "keywords": [
+          "Git",
+          "Heroku",
+          "AWS",
+          "TravisCI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computer Science",
+      "keywords": [
+        "Machine Learning",
+        "AI"
+      ]
+    }
+  ],
+  "references": []
+}
