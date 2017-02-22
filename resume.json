@@ -34,6 +34,19 @@
     },
     "work": [
         {
+        "company": "Character Lab",
+        "position": "Software Engineer",
+        "website": "http://characterlab.org",
+        "startDate": "2017-01-03",
+        "summary": "Nonprofit on a mission to advance the science and practice of character development",
+        "highlights": [
+          "Develop tools and infrastructure for a multiple concurrent research study pipeline",
+          "Coordinate with researchers to develop requirements, design, and user workflow",
+          "Support individual researchers develop and/or modify their research tools",
+          "Organize and implement organization wide security protocol"
+        ]
+      },
+        {
             "company": "Lacoda",
             "position": "Software Engineer",
             "website": "http://lacoda.com",
