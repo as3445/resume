@@ -5,7 +5,7 @@
         "picture": "",
         "email": "saxenaankur001@gmail.com",
         "phone": "(267) 324-8432",
-        "website": "https://as3445.github.io",
+        "website": "https://saxenaankur.com",
         "summary": "Diverse range of experience in software design and engineering, front end development, server administration, and consulting in a startup environment",
         "location": {
             "address": "",
@@ -34,16 +34,17 @@
     },
     "work": [
         {
-        "company": "Character Lab",
-        "position": "Software Engineer",
-        "website": "http://characterlab.org",
+        "company": "University of Pennsylvania: The Wharton School of Business",
+        "position": "Senior Application Developer",
+        "website": "https://bcfg.wharton.upenn.edu",
         "startDate": "2017-01-03",
-        "summary": "Nonprofit on a mission to advance the science and practice of character development",
+        "summary": "Unites experts in the social sciences, medicine, computer science, and neuroscience to solve the problem of enduring behavior change",
         "highlights": [
-          "Develop tools and infrastructure for a multiple concurrent research study pipeline",
-          "Coordinate with researchers to develop requirements, design, and user workflow",
-          "Support individual researchers develop and/or modify their research tools",
-          "Organize and implement organization wide security protocol"
+          "Architect and develop tools and infrastructure for executing a pipeline for multiple concurrent research studies",
+          "Coordinate with researchers to gather requirements, plan, design, and implement their vision",
+          "Support individual researchers by developing and/or modifying their research tools",
+          "Organize and implement organization-wide security protocol",
+          "Develop an ETL pipeline to process millions of datapoints daily"
         ]
       },
         {
@@ -54,12 +55,12 @@
             "endDate": "2016-07-01",
             "summary": "Flexible web-based tool for loan management",
             "highlights": [
-                "Extended on Double-entry bookkeeping engine",
-                "Third Party Integrations: Pactsafe, Dwolla, Google Analytics, Mandrill",
+                "Extended on double-entry bookkeeping engine",
                 "Implemented business logic for online financial transactions",
-                "Matchmaking service for borrowers and lenders",
+                "Designed and devloped matchmaking service for borrowers and lenders named Deal City",
                 "Lacoda Stack: Flask, Postgres, Backbone",
-                "Deal City Stack: Pyramid, Postgres, Angular"
+                "Deal City Stack: Pyramid, Postgres, Angular",
+                "Third Party Integrations: Pactsafe, Dwolla, Google Analytics, Mandrill"
             ]
         },
         {
@@ -68,13 +69,14 @@
             "website": "https://americancertified.com",
             "startDate": "2013-09-01",
             "endDate": "2015-07-01",
-            "summary": "E-Commerce website that catalogs American manufactured and promotes conscious consumerism",
+            "summary": "E-Commerce website that catalogs American manufactured products and promotes conscious consumerism",
             "highlights": [
-                "E-commerce website using various frameworks from its inception in 2013 to 2015",
+                "Developed from ground up an E-commerce website using various frameworks from its inception in 2013 to 2015",
                 "Database Architecture: Designed MySQL schema to support over three million products, with real time natural languages search capabilities using sphinx",
-                "Data Collection: Automatically collect data from amazon.com to obtain products from 30,000 category nodes using 5 search terms in one week totaling millions of data points",
+                "Developed data Collection pipeline to automatically collect data from amazon.com to obtain products from 30,000 category nodes using 5 search terms in one week totaling millions of data points",
                 "Advised CEO in making business and technology decisions",
-                "Mentored and trained new employees and interns"
+                "Mentored and trained new employees and interns",
+                "Technology Stack: Linux, PHP, MySQL, Node.js, Tor, Sphinx, CodeIgniter"
             ]
         },
         {
@@ -85,9 +87,9 @@
             "endDate": "2013-09-01",
             "summary": "Collaborative research project aimed at designing better tools and practices for learning web development",
             "highlights": [
-                "Experimental web editor for novice programmers for research",
+                "Extended an open source project to develop experimental web editor for novice programmers for research",
                 "Implemented data collection infrastructure and “real time data replay” feature to facilitate analysis of user activity",
-                "Conducted Literature reviews, user observations, data analysis, and  written research papers / posters"
+                "Conducted literature reviews, user observations, data analysis, and  written research papers and posters"
             ]
         }
     ],
@@ -98,7 +100,7 @@
             "title": "Mail Coach",
             "date": "2015-05-06",
             "awarder": "Tech Crunch",
-            "summary": "Intelligent feedback on emails using AI and personality analysis"
+            "summary": "Intelligent feedback on emails using AI and personality analysis: https://techcrunch.com/video/mail-coach/"
         },
         {
             "title": "Let's Go!",
@@ -110,24 +112,24 @@
             "title": "Ether Health",
             "date": "2015-04-17",
             "awarder": "Startup Weekend",
-            "summary": " Informal Consulting similar to Stack Overflow for doctors"
+            "summary": "Informal consulting similar to Stack Overflow for doctors"
 
         }
     ],
     "publications": [
-        {
-            "name": "openHTML: Designing a transitional web editor for novices",
-            "publisher": "CHI '13 Extended Abstracts on Human Factors in Computing Systems",
-            "releaseDate": "2013-04-01",
-            "website": "https://www.researchgate.net/publication/262361810_openHTML_Designing_a_transitional_web_editor_for_novices",
-            "summary": "We describe the initial design rationale and early findings from studies of a web editor for beginners called openHTML. We explain our strategy of transitional design that views web editors as a part of a complex socio-technical system that spans multiple tools, practices, and actors. Our goal is to create a toolkit that can engage beginners in meaningful activities now and prepare them for more sophisticated activities in the future."
-        },
         {
             "name": "Towards a taxonomy of errors in HTML and CSS",
             "publisher": "ICER '13 Proceedings of the ninth annual international ACM conference on International computing education research",
             "releaseDate": "2013-08-01",
             "website": "https://www.researchgate.net/publication/262236925_Towards_a_taxonomy_of_errors_in_HTML_and_CSS",
             "summary": "As part of a larger research agenda to explore web development as a context for learning computational literacy skills, we investigate errors people make while writing code in HTML and CSS. We report on a lab-based study in which 20 participants were video recorded as they completed coding tasks. We have applied the skills-rules-knowledge framework to segment this data by the cognitive causes of errors they made, and present a taxonomy of these errors. Our findings demonstrate how the skills-rules-framework can be used to analyze coding errors, provide insight about the origins of these errors, and suggest ways that the design of web development tools can be improved to support learning and practice with HTML and CSS."
+        },
+        {
+            "name": "openHTML: Designing a transitional web editor for novices",
+            "publisher": "CHI '13 Extended Abstracts on Human Factors in Computing Systems",
+            "releaseDate": "2013-04-01",
+            "website": "https://www.researchgate.net/publication/262361810_openHTML_Designing_a_transitional_web_editor_for_novices",
+            "summary": "We describe the initial design rationale and early findings from studies of a web editor for beginners called openHTML. We explain our strategy of transitional design that views web editors as a part of a complex socio-technical system that spans multiple tools, practices, and actors. Our goal is to create a toolkit that can engage beginners in meaningful activities now and prepare them for more sophisticated activities in the future."
         }
     ],
     "skills": [
@@ -135,39 +137,48 @@
             "name": "Front-end",
             "level": "",
             "keywords": [
+                "Angular",
+                "React",
+                "Backbone",
+                "Javascript",
+                "JQuery",
                 "HTML",
                 "CSS",
                 "Bootstrap",
-                "Foundation",
-                "Javascript",
-                "Angular",
-                "Backbone",
-                "JQuery"
+                "Foundation"
             ]
         },
         {
             "name": "Back-end",
             "level": "",
             "keywords": [
+                "Python",
+                "Flask",
+                "Django",
+                "SQLAlchemy",
                 "PHP",
                 "CodeIgniter",
                 "Magento",
-                "Python",
-                "Flask",
                 "Node.js",
                 "Express",
                 "MySQL",
-                "PostgreSQL"
+                "PostgreSQL",
+                "Redis"
             ]
         },
         {
             "name": "Extras",
             "level": "",
             "keywords": [
-                "Git",
-                "Heroku",
                 "AWS",
-                "Travis-CI"
+                "Heroku",
+                "Docker",
+                "GitLab CI/CD",
+                "Travis-CI",
+                "Git",
+                "Bash",
+                "Jira",
+                "Agile"
             ]
         }
     ],
@@ -208,9 +219,12 @@
             "keywords": [
                 "Indie Games",
                 "Rocket League",
-                "Legend of Zelda"
+                "Legend of Zelda",
+                "Hollow Knight",
+                "The Witcher 3"
             ]
         }
     ],
-    "references": []
+    "references": [],
+    "googleAnalytics": "UA-59800508-2"
 }
