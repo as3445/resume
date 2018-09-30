@@ -6,7 +6,7 @@
   "scripts": {
     "test": "resume test",
     "resume": "resume",
-    "export": "resume export index.html --theme stackoverflow"
+    "export": "resume export index.html --theme stackoverflow-plus"
   },
   "repository": {
     "type": "git",
