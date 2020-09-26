@@ -22,6 +22,7 @@
   },
   "homepage": "https://as3445.github.io",
   "dependencies": {
-    "resume-cli": "^0.4.13"
+    "jsonresume-theme-stackoverflow-plus": "^1.0.1",
+    "resume-cli": "^2.0.0"
   }
 }

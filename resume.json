@@ -34,10 +34,24 @@
     },
     "work": [
         {
+            "company": "Joor",
+            "position": "Software Engineer",
+            "website": "https://joor.com",
+            "startDate": "2019-10-14",
+            "summary": "Wholesale Fashion Tech",
+            "highlights": [
+                "Overhaul and centralize legacy authentication systems using Keycloak",
+                "Improve system visibility and performance using tools such as Datadog and ELK",
+                "Establish load testing patterns and introduced standardized execution",
+                "Tech: Kubernetes, polyglot services, AWS, primarily Python backends and React frontends"
+            ]
+        },
+        {
         "company": "University of Pennsylvania: The Wharton School of Business",
         "position": "Senior Application Developer",
         "website": "https://bcfg.wharton.upenn.edu",
         "startDate": "2017-01-03",
+        "endDate": "2019-10-11",
         "summary": "Unites experts in the social sciences, medicine, computer science, and neuroscience to solve the problem of enduring behavior change",
         "highlights": [
           "Architect and develop tools and infrastructure for executing a pipeline for multiple concurrent research studies",
@@ -135,7 +149,7 @@
     ],
     "skills": [
         {
-            "name": "Front-end",
+            "name": "Client Side",
             "level": "",
             "keywords": [
                 "Angular",
@@ -150,12 +164,13 @@
             ]
         },
         {
-            "name": "Back-end",
+            "name": "Server Side",
             "level": "",
             "keywords": [
                 "Python",
                 "Flask",
                 "Django",
+                "gRPC",
                 "SQLAlchemy",
                 "PHP",
                 "CodeIgniter",
@@ -164,7 +179,8 @@
                 "Express",
                 "MySQL",
                 "PostgreSQL",
-                "Redis"
+                "Redis",
+                "Java"
             ]
         },
         {
@@ -174,8 +190,12 @@
                 "AWS",
                 "Heroku",
                 "Docker",
+                "Kubernetes",
                 "GitLab CI/CD",
                 "Travis-CI",
+                "Keycloak",
+                "OIDC",
+                "SAML",
                 "Git",
                 "Bash",
                 "Jira",
