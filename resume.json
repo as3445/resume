@@ -1,5 +1,5 @@
 {
-      "basics": {
+    "basics": {
         "name": "Ankur Saxena",
         "label": "Software Engineer",
         "picture": "",
@@ -34,10 +34,23 @@
     },
     "work": [
         {
+            "company": "Invitae",
+            "position": "Senior Bioinformatics Software Engineer",
+            "website": "https://invitae.com",
+            "startDate": "2022-03-14",
+            "summary": "Genetic Testing",
+            "highlights": [
+                "Make recommendations on software engineering best practices, such as development workflow, using service layers, and using data schemas",
+                "Collaborate independently with bioinformaticians, data scientists, and other software teams to improve dashboard data visibility and performance",
+                "On-call production support for critical issues that ranged from internal team software bugs to systemic infrastructure issues to lab equipment failures"
+            ]
+        },
+        {
             "company": "Joor",
-            "position": "Software Engineer",
+            "position": "Senior Software Engineer",
             "website": "https://joor.com",
             "startDate": "2019-10-14",
+            "endDate": "2022-03-14",
             "summary": "Wholesale Fashion Tech",
             "highlights": [
                 "Overhaul and centralize legacy authentication systems using Keycloak",
@@ -47,21 +60,21 @@
             ]
         },
         {
-        "company": "University of Pennsylvania: The Wharton School of Business",
-        "position": "Senior Application Developer",
-        "website": "https://bcfg.wharton.upenn.edu",
-        "startDate": "2017-01-03",
-        "endDate": "2019-10-11",
-        "summary": "Unites experts in the social sciences, medicine, computer science, and neuroscience to solve the problem of enduring behavior change",
-        "highlights": [
-          "Architect and develop tools and infrastructure for executing a pipeline for multiple concurrent research studies",
-          "Organize and visualize research data as well as operational data",
-          "Coordinate with researchers to gather requirements, plan, design, and implement their vision",
-          "Support individual researchers by developing and/or modifying their research tools",
-          "Organize and implement organization-wide security protocol",
-          "Develop an ETL pipeline to process millions of datapoints daily"
-        ]
-      },
+            "company": "University of Pennsylvania: The Wharton School of Business",
+            "position": "Senior Application Developer",
+            "website": "https://bcfg.wharton.upenn.edu",
+            "startDate": "2017-01-03",
+            "endDate": "2019-10-11",
+            "summary": "Unites experts in the social sciences, medicine, computer science, and neuroscience to solve the problem of enduring behavior change",
+            "highlights": [
+                "Architect and develop tools and infrastructure for executing a pipeline for multiple concurrent research studies",
+                "Organize and visualize research data as well as operational data",
+                "Coordinate with researchers to gather requirements, plan, design, and implement their vision",
+                "Support individual researchers by developing and/or modifying their research tools",
+                "Organize and implement organization-wide security protocol",
+                "Develop an ETL pipeline to process millions of datapoints daily"
+            ]
+        },
         {
             "company": "Lacoda",
             "position": "Software Engineer",
@@ -128,7 +141,6 @@
             "date": "2015-04-17",
             "awarder": "Startup Weekend",
             "summary": "Informal consulting similar to Stack Overflow for doctors"
-
         }
     ],
     "publications": [
